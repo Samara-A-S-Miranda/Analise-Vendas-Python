@@ -62,14 +62,8 @@ O resultado final é um relatório visual com insights claros para as áreas de 
 ## 🚀 6. Como Executar o Projeto
 
 ```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/Analise-de-Vendas-com-Python.git
-
-# Acesse a pasta
-cd ANALISE_VENDAS_PYTHON
-
-# Execute o script
-python coding_analysis_sales.py
+# Abra no Jupyter Notebook ou VS Code
+coding_analysis_sales.ipynb
 ```
 
 ---
