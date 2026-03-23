@@ -66,10 +66,10 @@ O resultado final é um relatório visual com insights claros para as áreas de 
 git clone https://github.com/seu-usuario/Analise-de-Vendas-com-Python.git
 
 # Acesse a pasta
-cd Analise-de-Vendas-com-Numpy-Pandas-e-Matplotlib
+cd ANALISE_VENDAS_PYTHON
 
 # Execute o script
-python main.py
+python coding_analysis_sales.py
 ```
 
 ---
